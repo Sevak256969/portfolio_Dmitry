@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "img": "./instagram.png",
+    "path": "https://www.instagram.com/"
+  },
+  {
+    "id": 2,
+    "img": "./vk.png",
+    "path": "https://www.vk.com/"
+  },
+  {
+    "id": 3,
+    "img": "./pinterest.png",
+    "path": "https://www.pinterest.com/"
+  }
+]
